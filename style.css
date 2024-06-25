@@ -1,0 +1,1 @@
+*{margin:0;padding:0;box-sizing:border-box}body{background-color:#ff3254;padding-top:50px}.container{margin:0 auto;width:500px;display:flex;justify-content:space-between}.container .box{width:200px;padding:20px;border:2px dashed #fff}.container .box li{list-style:none;background:#fff;margin-bottom:20px;padding:10px}
